@@ -19,3 +19,6 @@ SvxLink is able to control a Tetra radio that is connected by RS232
 
 == svxlink-usrp ==
 Usrp protocol implementation to connect SvxLink to MMDVM
+
+== tetra-sip-usrp ==
+Combination of the logics above, please read the pdf
