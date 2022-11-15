@@ -1,0 +1,21 @@
+Documentation about extensions
+==============================
+
+----
+#
+# SvxLink-Contributions.pdf
+# Adi Bier / DL1HRC (dl1hrc [at] gmx.de)
+# Version 15112022
+#
+----
+German documentation of extensions (branches) provided by Adi / DL1HRC
+----
+
+== pjSipLogic ==
+Sip extension to connect SvxLink to a sip server
+
+== tetra-contrib ==
+SvxLink is able to control a Tetra radio that is connected by RS232
+
+== svxlink-usrp ==
+Usrp protocol implementation to connect SvxLink to MMDVM
